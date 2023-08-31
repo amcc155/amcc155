@@ -8,6 +8,6 @@ A passionate Informatics student at Indiana University with an interest in web d
 - Exploring the concepts of full-stack development in my courses, combining my backend knowledge with React-powered frontends.
 
 💻 Courses
-- Info-I 300 Application Development Java (Current)
+- Info-I 311 Application Development Java (Current)
 - Info-I 211 Information Infrastructure II (Current)
 - Info-I 365 Javascript(Current)
