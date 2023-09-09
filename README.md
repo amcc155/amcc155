@@ -1,11 +1,12 @@
 ### Hi there I'm Aidan McCormick 👋
-A passionate Informatics student at Indiana University with an interest in web development.
+I am a student at Indiana Universty majoring in Informatics with a cognate in Web Design and Development
 
 - 🔭 I am not currently working on any big projects, but i have many ideas for large scale projects when i am comfortable with React. 
 
 ### 🌱 Currently Learning
-- Expanding my frontend toolkit with React, working on small projects to strengthen my understanding.
-- Exploring the concepts of full-stack development in my courses, combining my backend knowledge with React-powered frontends.
+-Currently learning some react, while doing smaller vanilla js projects to become more comfortable. 
+- Taking a back-end python course at Indiana University that involves flask.
+- Taking Javascript so i can learn more stuff that i missed learning on my own while picking best practices for coding in JS.
 
 💻 Courses
 - Info-I 311 Application Development Java (Current)
