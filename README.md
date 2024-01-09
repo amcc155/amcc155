@@ -1,15 +1,16 @@
-### Hi there I'm Aidan McCormick 👋
+### I'm Aidan McCormick 👋
 I am a student at Indiana Universty majoring in Informatics with a cognate in Web Design and Development
 
-- 🔭 I am not currently working on any big projects, but i have many ideas for large scale projects when i am comfortable with React. 
+-  I am currently working onn a [CV Generator Application](https://www.theodinproject.com/lessons/node-path-react-new-cv-application) using ReactJS 
 
-### 🌱 Currently Learning
--Currently learning some react on my own, while doing smaller vanilla js projects to become more comfortable writing clean code with APIS. 
-- Taking a back-end python course at Indiana University that involves flask and how to use git properly. By the end of the course I would be able to create a full stack web app.
-- Learning Java through school this semester that includes a final group project using JavaFx. 
-- Taking Javascript so i can learn more stuff that i missed learning on my own while picking up best practices for coding in JS.
+### Currently Learning
+- ReactJs through [The Odin Project](https://www.theodinproject.com/dashboard)
+- Android Development in Android Studio
+- Basic Data Structures and Algorithms
+- Arduino
 
-💻 Courses
-- Info-I 311 Application Development Java (Current)
-- Info-I 211 Information Infrastructure II (Current)
-- Info-I 365 Javascript(Current)
+💻 Current Courses I am Taking
+- [CSCI-A310 Problem Solving Using Data](https://luddy.indiana.edu/academics/courses/class/iub-fall-2023-csci-a310)
+- INFO-I311 Information Representation
+- CSCI-A290 Android Application Development
+- INFO-I399 Project Management For the Cloud
