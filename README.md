@@ -11,6 +11,6 @@ I am a student at Indiana Universty majoring in Informatics with a cognate in We
 
 💻 Current Courses I am Taking
 - [CSCI-A310 Problem Solving Using Data](https://luddy.indiana.edu/academics/courses/class/iub-fall-2023-csci-a310)
-- INFO-I311 Information Representation
+- INFO-I308 Information Representation
 - CSCI-A290 Android Application Development
 - INFO-I399 Project Management For the Cloud
