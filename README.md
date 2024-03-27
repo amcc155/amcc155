@@ -1,7 +1,7 @@
 ### I'm Aidan McCormick 👋
 I am a student at Indiana Universty majoring in Informatics with a cognate in Web Design and Development
 
--  I am currently working onn a [CV Generator Application](https://www.theodinproject.com/lessons/node-path-react-new-cv-application) using ReactJS 
+-  I am currently working on a front end Ecom store using ReactJS 
 
 ### Currently Learning
 - ReactJs through [The Odin Project](https://www.theodinproject.com/dashboard)
