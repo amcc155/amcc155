@@ -1,5 +1,5 @@
 ### I'm Aidan McCormick 👋
-I am a student at Indiana Universty majoring in Informatics with a cognate in Web Design and Development
+I am a student at Indiana Universty majoring in Informatics with a cognate in Web Design and Development and a minor in Human Centered Computing
 
 -  I am currently working on a front end Ecom store using ReactJS 
 
