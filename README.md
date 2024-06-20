@@ -1,7 +1,7 @@
-### I'm Aidan McCormick 👋
+
 I am a student at Indiana Universty majoring in Informatics with a cognate in Web Design and Development and minors in Human Centered Computing and Information Systems.
 
--  I am currently working on a front end Ecom store using ReactJS. Incorporating more advanced topics like context API, custom hooks, and more adavanced react hooks like useRef, and useMemo.
+
 
 ### Currently Learning
 - ReactJs through [The Odin Project](https://www.theodinproject.com/dashboard)
